@@ -86,11 +86,11 @@
 
         <!-- Compile -->
         <!-- Json message repo -->
-	<dependency>
-	    <groupId>com.github.rayzr522</groupId>
-	    <artifactId>JSONMessage</artifactId>
-	    <version>1.2.1</version>
-	</dependency>
+        <dependency>
+            <groupId>me.rayzr522</groupId>
+            <artifactId>JSONMessage</artifactId>
+            <version>1.3.0</version>
+        </dependency>
         <!-- My utils -->
         <dependency>
             <groupId>com.github.Smattr</groupId>
