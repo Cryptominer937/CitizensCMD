@@ -51,6 +51,10 @@
             <id>sonatype</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </repository>
+        <repository>
+           <id>rayzr-repo</id>
+           <url>https://rayzr.dev/repo/</url>
+       </repository>
     </repositories>
 
     <dependencies>
