@@ -53,7 +53,7 @@
         </repository>
         <repository>
            <id>rayzr-repo</id>
-           <url>https://rayzr.dev/repo/</url>
+           <url>https://cdn.rawgit.com/Rayzr522/maven-repo/master/</url>
        </repository>
     </repositories>
 
